@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yasmine2245
-- 👀 I’m interested in Data Science, Cybersecurity, Machine Learning and Web development
+- 👀 I’m interested in Data Science, Data Analysis, Machine Learning and Cybersecurity
 - 🌱 I’m currently studying in Computer science, more specifically the Data Science Option at the University of Ottawa!
 - 📫 How to reach me, email: yasminehallak1@gmail.com
 - 😄 Pronouns: She/Her
